@@ -1,0 +1,25 @@
+.container-principale{
+  width: 500px;
+  height: 500px;
+    display: grid;
+   grid-template-columns:1fr 1fr;
+   grid-template-rows:1fr 1fr ;
+   column-gap: 50px;
+    row-gap: 50px;
+}
+.container-1{
+background-color: brown;
+
+}
+.container-2{
+background-color: rgb(42, 165, 54);
+
+}
+.container-3{
+background-color: rgb(0, 0, 0);
+
+}
+.container-4{
+background-color: rgb(155, 165, 42);
+
+}
